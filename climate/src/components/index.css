@@ -1,0 +1,39 @@
+.container {
+  width: auto;
+  height: auto;
+}
+.innerImage {
+  width: auto;
+  height: auto;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+}
+.innerImage img {
+  width: 90px;
+  height: 90px;
+}
+.innerDescription {
+  width: auto;
+  height: auto;
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.innerDInfo {
+  width: auto;
+  height: auto;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.innerDInfo span {
+  font-weight: 900;
+}
+.day span {
+  display: flex;
+  justify-content: center;
+  font-weight: 900;
+}

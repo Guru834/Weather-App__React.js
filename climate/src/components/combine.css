@@ -1,0 +1,38 @@
+.col {
+  border: 1px solid black;
+  margin: 5px;
+  background-color: lightgray;
+}
+.data {
+  display: flex;
+  justify-content: space-evenly;
+}
+.cityName {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: 4px;
+  align-items: center;
+}
+.cityName span {
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+  margin-top: 4px;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+.form button {
+  height: 38px;
+}
+.date {
+  display: flex;
+  justify-content: flex-end;
+}
