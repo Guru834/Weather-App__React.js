@@ -20,8 +20,6 @@ This software was created to assist users in getting the most up-to-date weather
 </ul>
 <br />
 
-# Visual Application
-
 https://user-images.githubusercontent.com/58672398/142744298-3b6a15d9-63ad-4583-907a-b29bffcfc740.mov
 
 <br />
