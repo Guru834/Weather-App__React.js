@@ -1,3 +1,29 @@
+# Weather-App__React.js
+This software was created to assist users in getting the most up-to-date weather in any city across the world. The app displays four different weather conditions for four different time periods. I utilized the open weather map API to collect the most recent data.https://openweathermap.org/api
+<br />
+<br />
+# Contributors
+<a href = 'https://github.com/Guru834/'>Guru834</a>
+
+# Built With:
+<ul>
+  <li><a href = 'https://reactjs.org/'>React</a> - React is a free and open-source front-end JavaScript library for building user interfaces based on UI components.</li>
+  <li><a href = 'https://axios-http.com/'>Axios</a> - Axios is a lightweight HTTP client based on the XMLHttpRequests service. It is used to perform HTTP requests and usually utilized in the front-end part of the application.</li>
+  <li><a href = 'https://getbootstrap.com/'>Bootstrap</a> - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.</li>
+  <li><a href = 'https://openweathermap.org/api'>Weather API</a> - Access current weather data for any location including over 200,000 cities.</li>
+</ul>
+
+# Features:
+<ul>
+  <li>The user can look up the weather of any city in the world.</li>
+  <li>The app displays four different weather conditions for four different time periods.</li>
+</ul>
+<br />
+
+https://user-images.githubusercontent.com/58672398/142744298-3b6a15d9-63ad-4583-907a-b29bffcfc740.mov
+
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -66,5 +92,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
