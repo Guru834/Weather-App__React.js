@@ -1,5 +1,5 @@
 # Weather-App__React.js
-This software was created to assist users in getting the most up-to-date weather in any city across the world. The app displays four different weather conditions for four different time periods. I utilised the open weather map API to collect the most recent data.https://openweathermap.org/api
+This software was created to assist users in getting the most up-to-date weather in any city across the world. The app displays four different weather conditions for four different time periods. I utilized the open weather map API to collect the most recent data.https://openweathermap.org/api
 <br />
 <br />
 # Contributors
